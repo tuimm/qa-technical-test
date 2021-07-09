@@ -7,5 +7,5 @@ TUI DX QA technical Test
 3. Save as a list of ordered dicts by country in a json file
    
 
-Plus 1: Create a Dockerfile to execute de code with all required dependencies
-Plus 2: Do it under linux
+* Plus 1: Create a Dockerfile to execute de code with all required dependencies
+* Plus 2: Do it under linux
