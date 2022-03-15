@@ -2,9 +2,19 @@
 
 TUI DX QA technical Test
 
-1. Process data in random-iban-data.txt file 
-2. Group by country 
-3. Save as a list of sorted dicts by country in a json file
-   
+Provided material:
+Random-iban-data.txt file
 
-* Plus: Create a Dockerfile to execute de code with all required dependencies
+Objective:
+Return a list of sorted dicts by country in a json file
+
+Hint:
+
+1. Process data in random-iban-data.txt file
+2. Group data by country. First two letters of each item stand for the
+county it belongs to.
+3. Create a dictionary for each group
+
+
+Plus:
+Create a Dockerfile to execute de code with all required dependencies
